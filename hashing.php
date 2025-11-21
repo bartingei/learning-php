@@ -15,7 +15,7 @@
 
     }
     else{
-        echo "incorrect password";
+        echo "incorrect password, try again";
     }
 
 
